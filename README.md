@@ -65,9 +65,6 @@ Yeni özelliklerle geliştirilmeye ve kişiselleştirilmeye açıktır.
 ### 📱 İletişim Sayfası
 <img width="100%" alt="İletişim Sayfası" src="https://github.com/user-attachments/assets/fc10505e-c10c-493c-b200-fdd7268c97c3" /> 
 
-### 💼 Admin Paneli – Hakkımda Sayfası
-<img width="100%" alt="Admin Hakkımda" src="https://github.com/user-attachments/assets/2f211e10-3f5a-4027-aee8-73570e6cfbb3" /> 
-
 ### 🎓 Admin Paneli – Eğitim Listesi
 <img width="100%" alt="Admin Eğitim Listesi" src="https://github.com/user-attachments/assets/8e05652b-faaf-4c97-8ccd-8494226d5e7b" /> 
 
